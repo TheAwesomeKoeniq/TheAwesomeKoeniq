@@ -1,0 +1,1 @@
+import{_ as o,c as n,b as t,o as s}from"./index-WiFCnfTM.js";const c={},r={class:"container text-center mx-auto px-2"};function a(i,e){return s(),n("section",r,e[0]||(e[0]=[t("h1",{class:"font-bold text-4xl"},"Hoppla!",-1),t("p",null,"Die aufgerufene Seite existiert bei uns nicht!",-1)]))}const f=o(c,[["render",a]]);export{f as default};
